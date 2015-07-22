@@ -1,13 +1,13 @@
 <resources>
     <style name="ListItemBgColor">
-        <item name="android:background">@color/grey_200</item>
+        <item name="android:background">@drawable/list_item_bg</item>
     </style>
 
     <style name="ListItemBgColor.Sepia">
-        <item name="android:background">@color/sepia</item>
+        <item name="android:background">@drawable/list_item_bg_sepia</item>
     </style>
 
     <style name="ListItemBgColor.Dark">
-        <item name="android:background">@color/grey_900</item>
+        <item name="android:background">@drawable/list_item_bg_dark</item>
     </style>
 </resources>
